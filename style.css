@@ -30,3 +30,40 @@
     overflow-x: hidden;
     transition: all 0.5s;
 }
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    color: #818181;
+    display: block;
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 25px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px){
+    .overlay a { font-size: 20px; }
+    .overlay, .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}

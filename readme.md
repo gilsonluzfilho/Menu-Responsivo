@@ -1,10 +1,8 @@
 <h1 align="center">Menu Responsivo</h1>
 
-### Menu responsivo que pode ser aplicado em diversos projetos.
+### Menu responsivo que pode ser aplicado em diversos projetos. Ao clicar no ícone do menu ele abrirá com todas as opções disponíveis.
 
 Tecnologias:<br>
 [x] HTML<br>
-[ ] CSS 🎨<br>
-[x] JavaScript <br>
-
-> :construction: Projeto em construção :construction:
+[x] CSS 🎨<br>
+[x] JavaScript
