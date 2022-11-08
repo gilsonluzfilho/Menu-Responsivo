@@ -5,6 +5,6 @@
 Tecnologias:<br>
 [x] HTML<br>
 [ ] CSS 🎨<br>
-[ ] JavaScript <br>
+[x] JavaScript <br>
 
 > :construction: Projeto em construção :construction:
